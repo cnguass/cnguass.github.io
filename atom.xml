@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cnguass.github.io</id>
     <title>中国快乐鸽共进联盟</title>
-    <updated>2020-07-08T14:01:09.859Z</updated>
+    <updated>2020-07-09T06:24:54.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cnguass.github.io"/>
     <link rel="self" href="https://cnguass.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://cnguass.github.io/images/avatar.png</logo>
     <icon>https://cnguass.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 中国快乐鸽共进联盟</rights>
+    <entry>
+        <title type="html"><![CDATA[次要目标]]></title>
+        <id>https://cnguass.github.io/post/ci-yao-mu-biao/</id>
+        <link href="https://cnguass.github.io/post/ci-yao-mu-biao/">
+        </link>
+        <updated>2020-07-09T06:22:20.000Z</updated>
+        <content type="html"><![CDATA[<p>带恶人    <strong>“ljw”</strong><br>
+无需多讲<br>
+不及“rg”但也家喻户晓</p>
+<figure data-type="image" tabindex="1"><img src="https://cnguass.github.io/post-images/1594275783071.png" alt="" loading="lazy"></figure>
+<blockquote>
+<p>“ljw”  像</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主要目标]]></title>
         <id>https://cnguass.github.io/post/zhu-yao-mu-biao/</id>
